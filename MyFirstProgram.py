@@ -56,3 +56,7 @@ if Character == "fresh!sans":
     print("get silases help")
 if Character == "geno!sans":
     print("isolation... is devastating")
+if Character == "nightmare!sans":
+    print("If you get hurt, you must hurt others as well. Calamity surpasses everything.")
+if Character == "dream!sans":
+    print("No life is a waste. Our identity doesn't make us more or less than anyone.")
