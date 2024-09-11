@@ -1,5 +1,4 @@
-print("insert Character")
-Character = input().lower()
+Character = input("Inset character name: ").lower()
 if Character == "temmie":
     print("hOI!!! im TEMMIE!!")
 if Character == "sans":
@@ -64,3 +63,7 @@ if Character == "blue":
     print("Mweh heh heh")
 if Character == "xevent":
     print("Just one world. With the best of the others.")
+if Character == "queen":
+    print("oh birdly I only play mobile games")
+if Character == "swap!pap":
+    print("youd be dead from my hand")
