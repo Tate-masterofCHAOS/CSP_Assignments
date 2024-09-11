@@ -62,3 +62,5 @@ if Character == "dream!sans":
     print("No life is a waste. Our identity doesn't make us more or less than anyone.")
 if Character == "blue":
     print("Mweh heh heh")
+if Character == "xevent":
+    print("Just one world. With the best of the others.")
