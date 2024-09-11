@@ -60,3 +60,5 @@ if Character == "nightmare!sans":
     print("If you get hurt, you must hurt others as well. Calamity surpasses everything.")
 if Character == "dream!sans":
     print("No life is a waste. Our identity doesn't make us more or less than anyone.")
+if Character == "blue":
+    print("Mweh heh heh")
