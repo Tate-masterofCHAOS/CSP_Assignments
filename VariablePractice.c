@@ -1,16 +1,16 @@
 #include <stdio.h>
 
 int main(void){
-    char name = "Tate";
-    char numSmol = "9:";
-    char numBig = "654";
-    char breakfest = "cereal";
-    char col = "green";
-    char sch = "UCAS";
-    char year = "2024";
-    char eyecol = "blue";
-    char age = "14";
-    char favsub = "science math or computer"
+    char name[] = "Tate";
+    char numSmol[] = "9:";
+    char numBig[] = "654";
+    char breakfest[] = "cereal";
+    char col[] = "green";
+    char sch[] = "UCAS";
+    char year[] = "2024";
+    char eyecol[] = "blue";
+    char age[] = "14";
+    char favsub[] = "science math or computer"l
     printf(name);
     printf(numSmol);
     printf(numBig);
