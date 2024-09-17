@@ -67,3 +67,8 @@ if Character == "queen":
     print("oh birdly I only play mobile games")
 if Character == "swap!pap":
     print("youd be dead from my hand")
+if Character == "the knight":
+    print("...")
+if Character == "uzi":
+    print("Bite Me")
+if Character == ""
