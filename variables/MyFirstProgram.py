@@ -45,14 +45,14 @@ if Character == "fell!papyrus":
     print("You have ten minutes to get out of here or your skull will be used to serve my spaghetti!!!... was that too mean fine then ill give him twenty minutes")
 if Character == "ink!sans":
     print("...What were we talking about?")
-if Character == "Toby":
+if Character == "toby":
     print("Im not snoring, Im cheering you on in my sleep!!")
 if Character == "xgaster":
     print("Evolution requires sacrifice")
 if Character == "cross!sans":
     print("I'm against unnecessary sacrifices to fix something that is fine as it is.")
 if Character == "fresh!sans":
-    print("get silases help")
+    print("Quote needed")
 if Character == "geno!sans":
     print("isolation... is devastating")
 if Character == "nightmare!sans":
@@ -71,4 +71,13 @@ if Character == "the knight":
     print("...")
 if Character == "uzi":
     print("Bite Me")
-if Character == ""
+if Character == "n":
+    print("Quote needed")
+if Character == "hornet":
+    print("Hello Little Ghost")
+if Character == "cyn":
+    print("better to assimilate then explain")
+if Character == "sammy lawrence":
+    print("sheep sheep sheep it is time for sleep rest your head its time for bead in the morning you may wake or in the morning you'll be dead")
+if Character == "porter":
+    print("so long bobby try not to die")
