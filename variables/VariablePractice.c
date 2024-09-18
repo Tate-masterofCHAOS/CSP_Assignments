@@ -10,7 +10,7 @@ int main(void){
     char year[] = "2024";
     char eyecol[] = "blue";
     char age[] = "14";
-    char favsub[] = "science math or computer"l
+    char favsub[] = "science math or computer";
     printf(name);
     printf(numSmol);
     printf(numBig);
