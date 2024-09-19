@@ -52,7 +52,7 @@ if Character == "xgaster":
 if Character == "cross!sans":
     print("I'm against unnecessary sacrifices to fix something that is fine as it is.")
 if Character == "fresh!sans":
-    print("Quote needed")
+    print("Howzitgoing Broskis")
 if Character == "geno!sans":
     print("isolation... is devastating")
 if Character == "nightmare!sans":
@@ -72,7 +72,7 @@ if Character == "the knight":
 if Character == "uzi":
     print("Bite Me")
 if Character == "n":
-    print("Quote needed")
+    print("I love doing anything")
 if Character == "hornet":
     print("Hello Little Ghost")
 if Character == "cyn":
@@ -81,3 +81,11 @@ if Character == "sammy lawrence":
     print("sheep sheep sheep it is time for sleep rest your head its time for bead in the morning you may wake or in the morning you'll be dead")
 if Character == "porter":
     print("so long bobby try not to die")
+if Character == "error!sans":
+    print("INK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
+if Character == "boris":
+    print("*bark")
+if Character == "allison":
+    print("I...I honestly don't know my name...so they call me Alice. But I'm no angel. You go back and rest. We'll talk again later.")
+if Character == "khan":
+    print("As they say in Russian... 'Whoops, I should've predicted that someone could escape out of a ventilation shaft using discarded mirrors as stairs.")
