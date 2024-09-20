@@ -87,5 +87,21 @@ if Character == "boris":
     print("*bark")
 if Character == "allison":
     print("I...I honestly don't know my name...so they call me Alice. But I'm no angel. You go back and rest. We'll talk again later.")
-if Character == "khan":
+if Character == "doll":
     print("As they say in Russian... 'Whoops, I should've predicted that someone could escape out of a ventilation shaft using discarded mirrors as stairs.")
+if Character == "kahn":
+    print("have fun with your door specific destiny (check if accurate)")
+if Character == "joey drew":
+    print("just a pencil and a dream")
+if Character == "audrey":
+    print("My father once told me, that just because we're born of darkness... doesn't mean we belong to it. We're always free to choose.")
+if Character == "fatal!error":
+    print("Everyone is dead, I killed them all. You are next ")
+if Character == "alice angel":
+    print("she's quite a gal")
+if Character == "v":
+    print("and yet I still feel nothing")
+if Character == "j":
+    print("I never needed either of you")
+if Character == "grillby":
+    print("oh you know sans in that case can you tell him to PAY HIS FREAKING TAB")
