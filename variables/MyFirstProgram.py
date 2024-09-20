@@ -105,3 +105,21 @@ if Character == "j":
     print("I never needed either of you")
 if Character == "grillby":
     print("oh you know sans in that case can you tell him to PAY HIS FREAKING TAB")
+if Character == "the ink demon":
+    print("The deep abyss remembers you... Audrey. A child of the darkness. Your journey will end as you are consumed into my dark kingdom. Here, you will find meaning in your pain!")
+if Character == "blue imposter":
+    print("its red")
+if Character == "red":
+    print("guys I saw blue vent")
+if Character == "green":
+    print("me and purple were watching pink")
+if Character == "purple":
+    print("I can confirm green's statement")
+if Character == "pink":
+    print("they were indeed with me")
+if Character == "tan":
+    print("I was watching pink on cameras")
+if Character == "wilson":
+    print("Attention! Children of the Machine! This is Wilson. Your friend, your protector. For 211 days, you lived without the Ink Demon haunting your steps. I banished him away, tore his body in two. In return, I ask just a little favor. Among you, there is a stranger. A young lady. Bring her to me.")
+if Character == "henry stein":
+    print("Alright, Joey. I'm here. Let's see we can find what you wanted me to see.")
