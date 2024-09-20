@@ -123,3 +123,9 @@ if Character == "wilson":
     print("Attention! Children of the Machine! This is Wilson. Your friend, your protector. For 211 days, you lived without the Ink Demon haunting your steps. I banished him away, tore his body in two. In return, I ask just a little favor. Among you, there is a stranger. A young lady. Bring her to me.")
 if Character == "henry stein":
     print("Alright, Joey. I'm here. Let's see we can find what you wanted me to see.")
+if Character == "shovel knight":
+    print("Prepare to taste justice! Shovel justice!")
+if Character == "monster kid":
+    print("Yo, I... I hate your guts. ... Man, I... I'm such a turd. I'm... I'm gonna go home now. Yo, w-w-wait! Help! I tripped!")
+if Character == "alphys":
+    print("Ummm... H-h-hiya! I'm Dr. Alphys. I'm ASGORE's royal scientist!")
