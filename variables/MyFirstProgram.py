@@ -129,3 +129,25 @@ if Character == "monster kid":
     print("Yo, I... I hate your guts. ... Man, I... I'm such a turd. I'm... I'm gonna go home now. Yo, w-w-wait! Help! I tripped!")
 if Character == "alphys":
     print("Ummm... H-h-hiya! I'm Dr. Alphys. I'm ASGORE's royal scientist!")
+if Character == "gourmand":
+    print("rotund")
+if Character == "epic!sans":
+    print("bruh")
+if Character == "kirby":
+    print("poyo")
+if Character == "mario":
+    print("So longay bowser")
+if Character == "luigi":
+    print("Mariooooo marioooooo mario wahahah")
+if Character == "link":
+    print("hyahhhh")
+if Character == "navi":
+    print("Hey!!! Listen")
+if Character == "midna":
+    print("So, you're not absolutely stupid after all!")
+if Character == "gojo":
+    print("this truly was our jujutsu kaisen")
+if Character == "gon":
+    print("I don't want my legs cut off, but I don't want to surrender!")
+if Character == "killua":
+    print("No Matter the Pain, I Will Keep Living. So When I Die, I'll Feel I Did the Best I Could")
