@@ -151,3 +151,9 @@ if Character == "gon":
     print("I don't want my legs cut off, but I don't want to surrender!")
 if Character == "killua":
     print("No Matter the Pain, I Will Keep Living. So When I Die, I'll Feel I Did the Best I Could")
+if Character == "all might":
+    print("I AM HERE!!!")
+if Character == "fi":
+    print("raise your sword skyward")
+if Character == "old man":
+    print("Its dangerous to go alone take this")
