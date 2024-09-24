@@ -1,16 +1,14 @@
 #include <stdio.h>
 
-void name(name){
-    char name[10];
-    return
+void hello(const char* name) {
+    printf("hello%s\n", name);
 }
 
-int main(void){
-    name;
-    name;
-    name;
-    name;
-    name;
+int main() {
+    hello(" maria");
+    hello(" jonathan");
+    hello(" bob the naked mole rat");
+    hello(" jared");
+    hello(" bread bro");
     return 0;
 }
-
