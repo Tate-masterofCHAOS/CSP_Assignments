@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "stdio.h": "c",
-        "MyFirstProgram.C": "cpp"
+        "MyFirstProgram.C": "cpp",
+        "HelloWorld.C": "cpp"
     }
 }
