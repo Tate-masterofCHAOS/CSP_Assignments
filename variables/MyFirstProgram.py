@@ -150,10 +150,28 @@ if Character == "gojo":
 if Character == "gon":
     print("I don't want my legs cut off, but I don't want to surrender!")
 if Character == "killua":
-    print("No Matter the Pain, I Will Keep Living. So When I Die, I'll Feel I Did the Best I Could")
+    print("People Only Find Me Interesting Because They Can't Tell Whether I'm Serious Or Not.")
 if Character == "all might":
     print("I AM HERE!!!")
 if Character == "fi":
     print("raise your sword skyward")
 if Character == "old man":
     print("Its dangerous to go alone take this")
+if Character == "ron":
+    print("bloody hell")
+if Character == "shadow link":
+    print("get quote from andrew")
+if Character == "endeaver":
+    print("SHOTOOOOOOO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
+if Character == "leorio":
+    print("I'm a simple guy. Figured I'd become a doctor... so I could cure some kid with the same disease, tell his parents they owed me nothing! Me... A doctor! Now there's a joke!! Do you know how much it costs to even try to become a doctor? The mind boggles!! It's always about money! Always!! That's why I want it!")
+if Character == "kurapika":
+    print("I do not fear death. I fear only that my rage will fade over time.")
+if Character == "chimera ant king":
+    print("Do You Humans Ever Listen To The Cries Of Mercy Coming From The Pigs And Cows You Slaughter?")
+if Character == "hisoka":
+    print("It Takes A Mere Second For Treasure To Turn To Trash.")
+if Character == "katsuki bakugo":
+    print("Stop Talking, I Will Win. That's… What Heroes Do!")
+if Character == "izuku midoriya":
+    print("If My Actions Can Save Any of Them... Then I've Gotta Do Something.")
