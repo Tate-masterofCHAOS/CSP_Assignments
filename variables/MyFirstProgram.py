@@ -175,3 +175,7 @@ if Character == "katsuki bakugo":
     print("Stop Talking, I Will Win. That's… What Heroes Do!")
 if Character == "izuku midoriya":
     print("If My Actions Can Save Any of Them... Then I've Gotta Do Something.")
+if Character == "young link":
+    print("I'm it eh? Sounds like... my kind of game. Let's play")
+if Character == "uncle iroh":
+    print("the key to both is proper aging")
