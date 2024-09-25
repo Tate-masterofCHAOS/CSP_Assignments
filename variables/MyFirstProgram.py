@@ -186,8 +186,8 @@ if Character == "zuko":
 if Character == "hermione":
     print("You could've been killed or worse expelled")
 if Character == "skull kid":
-    print("(update quote)")
+    print("Eh-hee-hee... You have the same smell as the fairy kid who taught me that song in the woods..)")
 if Character == "sokka":
-    print("boomerang (update quote later)")
+    print("Drink cactus juice itll quench ya nothing quenchier its the quenchiest")
 if Character == "percy jackson":
-    print("(update quote)")
+    print("The god's chosen beverage. Tremble before the horror of Diet Coke!")
