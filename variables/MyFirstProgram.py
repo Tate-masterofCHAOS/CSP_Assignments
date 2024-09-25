@@ -138,7 +138,7 @@ if Character == "kirby":
 if Character == "mario":
     print("So longay bowser")
 if Character == "luigi":
-    print("Mariooooo marioooooo mario wahahah")
+    print("Mariooooo marioooooo mario")
 if Character == "link":
     print("hyahhhh")
 if Character == "navi":
@@ -185,3 +185,9 @@ if Character == "zuko":
     print("I will regain my glory")
 if Character == "hermione":
     print("You could've been killed or worse expelled")
+if Character == "skull kid":
+    print("(update quote)")
+if Character == "sokka":
+    print("boomerang (update quote later)")
+if Character == "percy jackson":
+    print("(update quote)")
