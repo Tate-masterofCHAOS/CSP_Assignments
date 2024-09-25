@@ -191,3 +191,7 @@ if Character == "sokka":
     print("Drink cactus juice itll quench ya nothing quenchier its the quenchiest")
 if Character == "percy jackson":
     print("The god's chosen beverage. Tremble before the horror of Diet Coke!")
+if Character == "tatl":
+    print("Take me with you and I'll help you out. Deal? Please? Good! So then it's settled! I'll be your partner... or at least, until we catch that Skull Kid. My name's Tatl. So, uh, it's nice to meet you or whatever. Now that we've got all that straightened out, can we stop messing around and get moving?!")
+if Character == "grover underwood":
+    print("If you are not going to eat it, can I have your diet coke can?")
