@@ -179,3 +179,9 @@ if Character == "young link":
     print("I'm it eh? Sounds like... my kind of game. Let's play")
 if Character == "uncle iroh":
     print("the key to both is proper aging")
+if Character == "toph":
+    print("I Am the Greatest Earthbender in the World!")
+if Character == "zuko":
+    print("I will regain my glory")
+if Character == "hermione":
+    print("You could've been killed or worse expelled")
