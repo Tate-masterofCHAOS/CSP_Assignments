@@ -1,4 +1,4 @@
-Character = input("Inset character name: ").lower()
+Character = input("Inset character name or press list for a list: ").lower()
 if Character == "list":
     print("There are 20 Undertale characters, 3 Deltarune characters, 17 characters from Undertale AUs, 2 Hollow Knight Characters, 7 Murder Drone Characters, 10 BATIM and BATDR Characters, 6 Among Us crewmates, 2 Shovel Knight Characters, 1 Rain World Character, 1 Kirby Character, 2 Mario Characters, 8 Legend of Zelda Characters, 2 Harry Potter Characters, 6 HxH Characters, 4 MHA Characters, 4 ATLA Characters, 2 Percy Jackson Characters, 1 jujutsu kaisen Character")
 if Character == "temmie":
@@ -71,7 +71,7 @@ if Character == "nightmare!sans":
     print("If you get hurt, you must hurt others as well. Calamity surpasses everything.")
 if Character == "dream!sans":
     print("No life is a waste. Our identity doesn't make us more or less than anyone.")
-if Character == "blue":
+if Character == "blueberry":
     print("Mweh heh heh")
 if Character == "xevent":
     print("Just one world. With the best of the others.")
@@ -99,6 +99,10 @@ if Character == "doll":
     print("As they say in Russian... 'Whoops, I should've predicted that someone could escape out of a ventilation shaft using discarded mirrors as stairs.")
 if Character == "kahn":
     print("have fun with your door specific destiny (check if accurate)")
+if Character == "v":
+    print("and yet I still feel nothing")
+if Character == "j":
+    print("I never needed either of you")
 
 if Character == "sammy lawrence":
     print("sheep sheep sheep it is time for sleep rest your head its time for bead in the morning you may wake or in the morning you'll be dead")
