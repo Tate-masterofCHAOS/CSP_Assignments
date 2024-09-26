@@ -1,6 +1,6 @@
 Character = input("Inset character name or press list for a list: ").lower()
 if Character == "list":
-    print("There are 20 Undertale characters, 3 Deltarune characters, 17 characters from Undertale AUs, 2 Hollow Knight Characters, 7 Murder Drone Characters, 10 BATIM and BATDR Characters, 6 Among Us crewmates, 2 Shovel Knight Characters, 1 Rain World Character, 1 Kirby Character, 2 Mario Characters, 8 Legend of Zelda Characters, 2 Harry Potter Characters, 6 HxH Characters, 4 MHA Characters, 4 ATLA Characters, 2 Percy Jackson Characters, 1 jujutsu kaisen Character")
+    print("There are 21 Undertale characters, 5 Deltarune characters, 17 characters from Undertale AUs, 2 Hollow Knight Characters, 7 Murder Drone Characters, 10 BATIM and BATDR Characters, 6 Among Us crewmates, 2 Shovel Knight Characters, 1 Rain World Character, 1 Kirby Character, 2 Mario Characters, 8 Legend of Zelda Characters, 2 Harry Potter Characters, 6 HxH Characters, 4 MHA Characters, 5 ATLA Characters, 2 Percy Jackson Characters, 1 jujutsu kaisen Character")
 if Character == "temmie":
     print("hOI!!! im TEMMIE!!")
 if Character == "sans":
@@ -41,6 +41,8 @@ if Character == "alphys":
     print("Ummm... H-h-hiya! I'm Dr. Alphys. I'm ASGORE's royal scientist!")
 if Character == "froggit":
     print("Meow")
+if Character == "story of undertale":
+    print("Long ago, two races ruled over Earth: HUMANS and MONSTERS. One day, war broke out between the two races. After a long battle, the humans were victorious. They sealed the monsters underground with a magic spell.")
 
 if Character == "jevil":
     print("I can do anything")
@@ -48,6 +50,10 @@ if Character == "spamton":
     print("Nows your chance to be a big shot")
 if Character == "queen":
     print("oh birdly I only play mobile games")
+if Character == "legend of deltarune":
+    print("Once upon a time, a LEGEND was whispered among shadows. It was a LEGEND of HOPE. (It was a LEGEND of DREAMS.)It was a LEGEND of LIGHT. (It was a LEGEND of DARK.)This is the legend of DELTA RUNE.For millenia, LIGHT and DARK have lived in balance, bringing peace to the WORLD.But if this harmony were to shatter...A terrible calamity would occur.The sky will run black with terror and the land will crack with fear.Then, her heart pounding...The EARTH will draw her final breath.Only then, shining with hope...Three HEROES appear at WORLDS' edge.A HUMAN, a MONSTER, and a PRINCE FROM THE DARK.Only they can seal the fountains and banish the ANGEL'S HEAVEN.Only then will balance be restored, and the WORLD saved from destruction.")
+if Character == "ralsie":
+    print("See that HEART, Kris? That's your SOUL, the culmination of your being! Within, it holds your WILL... your COMPASSION... ... and the FATE of the world.")
 
 if Character == "fell!sans":
     print("were going to have a great time")
@@ -206,6 +212,8 @@ if Character == "zuko":
     print("I will regain my glory")
 if Character == "sokka":
     print("Drink cactus juice itll quench ya nothing quenchier its the quenchiest")
+if Character == "aang":
+    print("When we hit our lowest point, we are open to the greatest change.")
 
 if Character == "percy jackson":
     print("The god's chosen beverage. Tremble before the horror of Diet Coke!")
