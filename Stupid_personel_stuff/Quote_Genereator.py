@@ -65,10 +65,6 @@ if Character == "fell!papyrus":
     print("You have ten minutes to get out of here or your skull will be used to serve my spaghetti!!!... was that too mean fine then ill give him twenty minutes")
 if Character == "ink!sans":
     print("...What were we talking about?")
-if Character == "xgaster":
-    print("Evolution requires sacrifice")
-if Character == "cross!sans":
-    print("I'm against unnecessary sacrifices to fix something that is fine as it is.")
 if Character == "fresh!sans":
     print("Howzitgoing Broskis")
 if Character == "geno!sans":
@@ -79,8 +75,6 @@ if Character == "dream!sans":
     print("No life is a waste. Our identity doesn't make us more or less than anyone.")
 if Character == "blueberry":
     print("Mweh heh heh")
-if Character == "xevent":
-    print("Just one world. With the best of the others.")
 if Character == "swap!pap":
     print("youd be dead from my hand")
 if Character == "error!sans":
@@ -89,6 +83,16 @@ if Character == "fatal!error":
     print("Everyone is dead, I killed them all. You are next ")
 if Character == "epic!sans":
     print("bruh")
+if Character == "xgaster":
+    print("Evolution requires sacrifice")
+if Character == "xalphys" or "assistent":
+    print("... Why arent you mad at me..? I lied to you about everything... despite you know the true face of this world... your still smiling and being so nice to me. I haven't done anything good for you and the children... why even pretend you forgave me ")
+if Character == "xundyne" or "timeline v":
+    print("I don't mean to brag, but i'm pretty good at kicking butts, you guys can tell")
+if Character == "xevent" or "xchara" or "vi":
+    print("Just one world. With the best of the others.")
+if Character == "cross!sans" or "x":
+    print("I'm against unnecessary sacrifices to fix something that is fine as it is.")
 
 if Character == "the knight":
     print("...")
@@ -232,4 +236,4 @@ if Character == "gojo":
     print("this truly was our jujutsu kaisen")
 
 if Character == "ben drowned":
-    print("You shouldn't have done that.")
+    print("You shouldn't have done that." )
