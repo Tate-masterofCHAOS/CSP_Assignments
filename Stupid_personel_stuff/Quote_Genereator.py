@@ -1,6 +1,6 @@
 Character = input("Inset character name or press list for a list: ").lower()
 if Character == "list":
-    print("There are 21 Undertale characters, 5 Deltarune characters, 17 characters from Undertale AUs, 2 Hollow Knight Characters, 7 Murder Drone Characters, 10 BATIM and BATDR Characters, 6 Among Us crewmates, 2 Shovel Knight Characters, 1 Rain World Character, 1 Kirby Character, 2 Mario Characters, 8 Legend of Zelda Characters, 2 Harry Potter Characters, 6 HxH Characters, 4 MHA Characters, 5 ATLA Characters, 2 Percy Jackson Characters, 1 jujutsu kaisen Character")
+    print("There are 21 Undertale characters, 5 Deltarune characters, 17 characters from Undertale AUs, 3 Hollow Knight Characters, 7 Murder Drone Characters, 10 BATIM and BATDR Characters, 6 Among Us crewmates, 2 Shovel Knight Characters, 1 Rain World Character, 1 Kirby Character, 2 Mario Characters, 9 Legend of Zelda Characters, 4 Harry Potter Characters, 6 HxH Characters, 4 MHA Characters, 5 ATLA Characters, 2 Percy Jackson Characters, 1 jujutsu kaisen Character, 1 creepypasta character")
 if Character == "temmie":
     print("hOI!!! im TEMMIE!!")
 if Character == "sans":
@@ -94,6 +94,8 @@ if Character == "the knight":
     print("...")
 if Character == "hornet":
     print("Hello Little Ghost")
+if Character == "grimm":
+    print("Wonderful. Wonderful! My kin arrive and the time has come. This searing fire... It carries well the Ritual's promise. Dance with me, my friend. The crowd awaits. Show them you are worthy of a starring role!")
 
 if Character == "uzi":
     print("Bite Me")
@@ -176,11 +178,17 @@ if Character == "skull kid":
     print("Eh-hee-hee... You have the same smell as the fairy kid who taught me that song in the woods..)")
 if Character == "tatl":
     print("Take me with you and I'll help you out. Deal? Please? Good! So then it's settled! I'll be your partner... or at least, until we catch that Skull Kid. My name's Tatl. So, uh, it's nice to meet you or whatever. Now that we've got all that straightened out, can we stop messing around and get moving?!")
+if Character == "happy mask salesman":
+    print("You've met with a terrible fate... haven't you?")
 
 if Character == "hermione":
     print("You could've been killed or worse expelled")
 if Character == "ron":
     print("bloody hell")
+if Character == "harry":
+    print("I solemnly swear I am up to no good.")
+if Character == "dumbledore":
+    print("Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.")
 
 if Character == "gon":
     print("I don't want my legs cut off, but I don't want to surrender!")
@@ -222,3 +230,6 @@ if Character == "grover underwood":
 
 if Character == "gojo":
     print("this truly was our jujutsu kaisen")
+
+if Character == "ben drowned":
+    print("You shouldn't have done that.")
