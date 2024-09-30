@@ -1,6 +1,6 @@
 Character = input("Inset character name or press list for a list: ").lower()
 if Character == "list":
-    print("There are 21 Undertale characters, 5 Deltarune characters, 17 characters from Undertale AUs, 3 Hollow Knight Characters, 7 Murder Drone Characters, 10 BATIM and BATDR Characters, 6 Among Us crewmates, 2 Shovel Knight Characters, 1 Rain World Character, 1 Kirby Character, 2 Mario Characters, 9 Legend of Zelda Characters, 4 Harry Potter Characters, 6 HxH Characters, 4 MHA Characters, 5 ATLA Characters, 2 Percy Jackson Characters, 1 jujutsu kaisen Character, 1 creepypasta character")
+    print("There are 21 Undertale characters, 5 Deltarune characters, 19 characters from Undertale AUs, 3 Hollow Knight Characters, 7 Murder Drone Characters, 10 BATIM and BATDR Characters, 6 Among Us crewmates, 2 Shovel Knight Characters, 1 Rain World Character, 1 Kirby Character, 2 Mario Characters, 9 Legend of Zelda Characters, 4 Harry Potter Characters, 6 HxH Characters, 4 MHA Characters, 5 ATLA Characters, 2 Percy Jackson Characters, 1 jujutsu kaisen Character, 1 creepypasta character")
 if Character == "temmie":
     print("hOI!!! im TEMMIE!!")
 if Character == "sans":
@@ -89,8 +89,12 @@ if Character == "xalphys":
     print("... Why arent you mad at me..? I lied to you about everything... despite you know the true face of this world... your still smiling and being so nice to me. I haven't done anything good for you and the children... why even pretend you forgave me ")
 if Character == "xundyne":
     print("I don't mean to brag, but i'm pretty good at kicking butts, you guys can tell")
-if Character == "xevent":
+if Character == "xchara":
     print("Just one world. With the best of the others.")
+if Character == "xfrisk":
+    print("WE CAN'T ENJOY LIFE IN ANY WORLD CREATED BY XGASTER.")
+if Character = "xpapyrus":
+    print("*watch IX for quote bout giving them feelings*")
 if Character == "cross!sans":
     print("I'm against unnecessary sacrifices to fix something that is fine as it is.")
 
