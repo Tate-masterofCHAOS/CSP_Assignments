@@ -85,13 +85,13 @@ if Character == "epic!sans":
     print("bruh")
 if Character == "xgaster":
     print("Evolution requires sacrifice")
-if Character == "xalphys" or "assistent":
+if Character == "xalphys":
     print("... Why arent you mad at me..? I lied to you about everything... despite you know the true face of this world... your still smiling and being so nice to me. I haven't done anything good for you and the children... why even pretend you forgave me ")
-if Character == "xundyne" or "timeline v":
+if Character == "xundyne":
     print("I don't mean to brag, but i'm pretty good at kicking butts, you guys can tell")
-if Character == "xevent" or "xchara" or "vi":
+if Character == "xevent":
     print("Just one world. With the best of the others.")
-if Character == "cross!sans" or "x":
+if Character == "cross!sans":
     print("I'm against unnecessary sacrifices to fix something that is fine as it is.")
 
 if Character == "the knight":
