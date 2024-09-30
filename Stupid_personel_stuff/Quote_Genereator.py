@@ -93,7 +93,7 @@ if Character == "xchara":
     print("Just one world. With the best of the others.")
 if Character == "xfrisk":
     print("WE CAN'T ENJOY LIFE IN ANY WORLD CREATED BY XGASTER.")
-if Character = "xpapyrus":
+if Character == "xpapyrus":
     print("*watch IX for quote bout giving them feelings*")
 if Character == "cross!sans":
     print("I'm against unnecessary sacrifices to fix something that is fine as it is.")
