@@ -1,6 +1,6 @@
 Character = input("Inset character name or press list for a list: ").lower()
 if Character == "list":
-    print("There are 21 Undertale characters, 5 Deltarune characters, 19 characters from Undertale AUs, 3 Hollow Knight Characters, 7 Murder Drone Characters, 10 BATIM and BATDR Characters, 6 Among Us crewmates, 2 Shovel Knight Characters, 1 Rain World Character, 1 Kirby Character, 2 Mario Characters, 9 Legend of Zelda Characters, 4 Harry Potter Characters, 6 HxH Characters, 4 MHA Characters, 5 ATLA Characters, 2 Percy Jackson Characters, 1 jujutsu kaisen Character, 1 creepypasta character")
+    print("There are 21 Undertale characters, 5 Deltarune characters, 23 characters from Undertale AUs, 3 Hollow Knight Characters, 7 Murder Drone Characters, 10 BATIM and BATDR Characters, 6 Among Us crewmates, 2 Shovel Knight Characters, 1 Rain World Character, 1 Kirby Character, 2 Mario Characters, 9 Legend of Zelda Characters, 4 Harry Potter Characters, 6 HxH Characters, 4 MHA Characters, 5 ATLA Characters, 2 Percy Jackson Characters, 1 jujutsu kaisen Character, 1 creepypasta character")
 if Character == "temmie":
     print("hOI!!! im TEMMIE!!")
 if Character == "sans":
@@ -87,14 +87,22 @@ if Character == "xgaster":
     print("Evolution requires sacrifice")
 if Character == "xalphys":
     print("... Why arent you mad at me..? I lied to you about everything... despite you know the true face of this world... your still smiling and being so nice to me. I haven't done anything good for you and the children... why even pretend you forgave me ")
+if Character == "xasriel":
+    print("Chara, Frisk. My dear brothers. Please don't be sad. We'll see eachother again. We can play and laugh just like we did in our childhood. You two will be a hundred times happier than this. It's a promise, okay? Stay determined for our freedom")
+if Character == "xasgore":
+    print("...But, if something really bad happened before, you shouldn't be sad because of it. Learn from that past, and don't let it happen again. Don't let that make you a prisoner.")
+if Character == "xmuffet":
+    print("... Now I undertand everything... How is it possible you two have been holding back for so long? Do you want to lost you brother or what? WAKE UP")
 if Character == "xundyne":
     print("I don't mean to brag, but i'm pretty good at kicking butts, you guys can tell")
 if Character == "xchara":
     print("Just one world. With the best of the others.")
 if Character == "xfrisk":
     print("WE CAN'T ENJOY LIFE IN ANY WORLD CREATED BY XGASTER.")
+if Character == "xmettaton":
+    print("The real one? But darling, That's me! The Authentic, Glamorous, Modern Mettaton! Im better than ever! The real question is... Are you the real Undyne?")
 if Character == "xpapyrus":
-    print("*watch IX for quote bout giving them feelings*")
+    print("It's sad, It's sad that something as valuable as a heart... has to carry a burden like that. I always thought the air or sorrow was normal in these lands... but now I understand that we are just your reflection... Next time dont give us real feelings, please. You are the only ones who need to understand your own mess. We will be grateful. It's a promise.")
 if Character == "cross!sans":
     print("I'm against unnecessary sacrifices to fix something that is fine as it is.")
 
