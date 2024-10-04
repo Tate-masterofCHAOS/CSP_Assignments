@@ -1,7 +1,7 @@
 while True:
     Character = input("Inset character name or press list for a list: ").lower()
     if Character == "list":
-        print("There are 21 Undertale characters, 5 Deltarune characters, 23 characters from Undertale AUs, 3 Hollow Knight Characters, 7 Murder Drone Characters, 10 BATIM and BATDR Characters, 6 Among Us crewmates, 2 Shovel Knight Characters, 1 Rain World Character, 1 Kirby Character, 2 Mario Characters, 9 Legend of Zelda Characters, 4 Harry Potter Characters, 6 HxH Characters, 4 MHA Characters, 5 ATLA Characters, 2 Percy Jackson Characters, 1 jujutsu kaisen Character, 1 creepypasta character")
+        print("There are 21 Undertale characters, 5 Deltarune characters, 23 characters from Undertale AUs, 4 Hollow Knight Characters, 7 Murder Drone Characters, 10 BATIM and BATDR Characters, 6 Among Us crewmates, 2 Shovel Knight Characters, 1 Rain World Character, 1 Kirby Character, 2 Mario Characters, 10 Legend of Zelda Characters, 4 Harry Potter Characters, 6 HxH Characters, 4 MHA Characters, 5 ATLA Characters, 2 Percy Jackson Characters, 1 jujutsu kaisen Character, 1 creepypasta character")
     if Character == "temmie":
         print("hOI!!! im TEMMIE!!")
     if Character == "sans":
@@ -113,6 +113,8 @@ while True:
         print("Hello Little Ghost")
     if Character == "grimm":
         print("Wonderful. Wonderful! My kin arrive and the time has come. This searing fire... It carries well the Ritual's promise. Dance with me, my friend. The crowd awaits. Show them you are worthy of a starring role!")
+    if Character == "sly":
+        print("All's fair in a world made of Geo.")
 
     if Character == "uzi":
         print("Bite Me")
@@ -197,6 +199,8 @@ while True:
         print("Take me with you and I'll help you out. Deal? Please? Good! So then it's settled! I'll be your partner... or at least, until we catch that Skull Kid. My name's Tatl. So, uh, it's nice to meet you or whatever. Now that we've got all that straightened out, can we stop messing around and get moving?!")
     if Character == "happy mask salesman":
         print("You've met with a terrible fate... haven't you?")
+    if Character == "deku scrub princess":
+        print("Youve put the deku princess in a bottle")
 
     if Character == "hermione":
         print("You could've been killed or worse expelled")
@@ -239,6 +243,8 @@ while True:
         print("Drink cactus juice itll quench ya nothing quenchier its the quenchiest")
     if Character == "aang":
         print("When we hit our lowest point, we are open to the greatest change.")
+    if Character == "katara":
+        print("I know sometimes it hurts more to hope and it hurts more to care, but you have to promise me that you won't stop caring.")
 
     if Character == "percy jackson":
         print("The god's chosen beverage. Tremble before the horror of Diet Coke!")
