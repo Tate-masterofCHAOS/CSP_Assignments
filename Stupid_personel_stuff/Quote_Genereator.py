@@ -1,7 +1,7 @@
 while True:
     Character = input("Inset character name or press list for a list: ").lower()
     if Character == "list":
-        print("There are 21 Undertale characters, 5 Deltarune characters, 23 characters from Undertale AUs, 4 Hollow Knight Characters, 7 Murder Drone Characters, 10 BATIM and BATDR Characters, 6 Among Us crewmates, 2 Shovel Knight Characters, 1 Rain World Character, 1 Kirby Character, 2 Mario Characters, 10 Legend of Zelda Characters, 4 Harry Potter Characters, 6 HxH Characters, 4 MHA Characters, 5 ATLA Characters, 2 Percy Jackson Characters, 1 jujutsu kaisen Character, 1 creepypasta character")
+        print("There are 21 Undertale characters, 5 Deltarune characters, 23 characters from Undertale AUs, 4 Hollow Knight Characters, 7 Murder Drone Characters, 10 BATIM/BATDR Characters, 6 Among Us crewmates, 2 Shovel Knight Characters, 1 Rain World Character, 1 Kirby Character, 2 Mario Characters, 10 Legend of Zelda Characters, 4 Harry Potter Characters, 6 HxH Characters, 4 MHA Characters, 5 ATLA Characters, 2 Percy Jackson Characters, 1 jujutsu kaisen Character, 1 creepypasta character")
     if Character == "temmie":
         print("hOI!!! im TEMMIE!!")
     if Character == "sans":
